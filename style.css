@@ -1,0 +1,42 @@
+h2{
+    margin: 45px;
+    top: 4px;
+}
+.form .row{
+   
+    margin-right: 200px;
+    right: 70px;
+}
+.col{
+   margin-right: 120px;
+   margin-left: 10px;
+   left: 27px;
+   
+}
+.form-group{
+    margin-right: 609px;
+    margin-left: 30px;
+    left: 25px;
+    margin-top: -4px;
+}
+.information{
+    margin-left: 550px;
+    margin-top: -75px;
+    margin-right: 89px;
+}
+.data{
+    margin-left: 30px;
+    margin-right: 90px;
+}
+.locate{
+    margin-right: 609px;
+    margin-left: 30px;
+    left: 25px;
+    margin-top: -4px;
+    bottom: 10px;
+}
+.last{
+    margin-left: 550px;
+    margin-top: -75px;
+    margin-right: 89px;
+}
